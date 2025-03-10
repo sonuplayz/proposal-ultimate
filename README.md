@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>iI love You !❤</title>
-    <title>iDo You Love Me ? 💍</title>
+    <title>Will You Marry Me? 💍❤</title>
     <style>
         body {
             text-align: center;
@@ -57,7 +56,7 @@
 </head>
 <body>
 
-    <h1>Do You Love Me ? 💍❤</h1>
+    <h1>Will You Marry Me? 💍❤</h1>
     <p>You are the best thing that ever happened to me!</p>
     
     <div class="buttons">
